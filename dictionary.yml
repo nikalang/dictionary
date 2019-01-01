@@ -1,3 +1,57 @@
+# Particles
+
+- nika: 녀
+  class: part
+  en: A grammatical particle that is attached to a clause in order to negate it
+
+- nika: 고
+  class: part
+  en: A grammatical particle that is attached to a clause that precedes another clause in order to coordinate them conveying the conjunction
+
+- nika: 야
+  class: part
+  en: A grammatical particle that is attached to a clause that precedes another clause in order to coordinate them conveying the alternative
+
+- nika: 다
+  class: part
+  en: A grammatical particle that is attached to a declarative subclause in order to nominalize it
+
+- nika: 까
+  class: part
+  en: A grammatical particle that is attached to an indirect interrogative subclause in order to nominalize it
+
+- nika: 여
+  class: part
+  en: A grammatical particle that is attached to a subclause with a noun phrase acting as its verb (the copular verb) when the subclause is a modifier of another noun or is followed by another particle
+
+- nika: 도
+  class: part
+  en: A grammatical particle that is attached to a noun phrase that precedes another noun phrase in order to coordinate them conveying the conjunction
+
+- nika: 나
+  class: part
+  en: A grammatical particle that is attached to a noun phrase that precedes another noun phrase in order to coordinate them conveying the alternative
+
+- nika: 아
+  class: part
+  en: A grammatical particle that is attached to a noun phrase in order to mark the topic of the sentence (topic marker)
+
+- nika: 가
+  class: part
+  en: A grammatical particle that is attached to a noun phrase in order to mark the subject of the sentence (nominative case marker)
+
+- nika: 오
+  class: part
+  en: A grammatical particle that is attached to a noun phrase in order to mark the object of the sentence (accusative case marker)
+
+- nika: 어
+  class: part
+  en: A grammatical particle that is attached to a noun phrase in order to convey its adverbial function (dative/locative/prepositional case marker)
+
+- nika: 노
+  class: part
+  en: A grammatical particle that is attached to a noun phrase in order to indicate that it modifies another noun phrase that follows it (genitive case marker)
+
 # Syllable names (84 syllables)
 
 # 'g'-onset (4 syllables)
