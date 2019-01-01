@@ -434,3 +434,45 @@
 - nika: 유
   class: n
   en: The name of syllable 'yu'
+
+# Numerals
+
+- nika: 여뎌
+  class: n
+  en: one
+
+- nika: 녀
+  class: n
+  en: two
+
+- nika: 싸며
+  class: n
+  en: three
+
+- nika: 쎠
+  class: n
+  en: four
+
+- nika: 오
+  class: n
+  en: five
+
+- nika: 유구
+  class: n
+  en: six
+
+- nika: 쎠뎌
+  class: n
+  en: seven
+
+- nika: 빠뎌
+  class: n
+  en: eight
+
+- nika: 꾸
+  class: n
+  en: nine
+
+- nika: 셔벼
+  class: n
+  en: ten
