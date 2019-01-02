@@ -1,10 +1,10 @@
-# Syllables (84 syllables)
+# Syllables (68 syllables)
 
 # 'g'-onset (4 syllables)
 
 - hangeul: 가
   latin: ga
-  pronunciation: gä
+  pronunciation: ga
 
 - hangeul: 거
   latin: ge
@@ -22,7 +22,7 @@
 
 - hangeul: 까
   latin: ka
-  pronunciation: kä
+  pronunciation: ka
 
 - hangeul: 꺼
   latin: ke
@@ -36,21 +36,17 @@
   latin: ku
   pronunciation: ku
 
-# 'n'-onset (8 syllables)
+# 'n'-onset (5 syllables)
 
 - hangeul: 나
   latin: na
-  pronunciation: nä
-
-- hangeul: 냐
-  latin: nya
-  pronunciation: ɲä
+  pronunciation: na
 
 - hangeul: 너
   latin: ne
   pronunciation: ne̞
 
-- hangeul: 녀
+- hangeul: 니
   latin: ni
   pronunciation: ɲi
 
@@ -58,91 +54,51 @@
   latin: no
   pronunciation: no̞
 
-- hangeul: 뇨
-  latin: nyo
-  pronunciation: ɲo̞
-
 - hangeul: 누
   latin: nu
   pronunciation: nu
 
-- hangeul: 뉴
-  latin: nyu
-  pronunciation: ɲu
-
-# 'd'-onset (8 syllables)
+# 'd'-onset (4 syllables)
 
 - hangeul: 다
   latin: da
-  pronunciation: dä
-
-- hangeul: 댜
-  latin: ja
-  pronunciation: dʑä
+  pronunciation: da
 
 - hangeul: 더
   latin: de
   pronunciation: de̞
 
-- hangeul: 뎌
-  latin: ji
-  pronunciation: dʑi
-
 - hangeul: 도
   latin: do
   pronunciation: do̞
-
-- hangeul: 됴
-  latin: jo
-  pronunciation: dʑo̞
 
 - hangeul: 두
   latin: du
   pronunciation: du
 
-- hangeul: 듀
-  latin: ju
-  pronunciation: dʑu
-
-# 't'-onset (8 syllables)
+# 't'-onset (4 syllables)
 
 - hangeul: 따
   latin: ta
-  pronunciation: tä
-
-- hangeul: 땨
-  latin: cha
-  pronunciation: tɕä
+  pronunciation: ta
 
 - hangeul: 떠
   latin: te
   pronunciation: te̞
 
-- hangeul: 뗘
-  latin: chi
-  pronunciation: tɕi
-
 - hangeul: 또
   latin: to
   pronunciation: to̞
-
-- hangeul: 뚀
-  latin: cho
-  pronunciation: tɕo̞
 
 - hangeul: 뚜
   latin: tu
   pronunciation: tu
 
-- hangeul: 뜌
-  latin: chu
-  pronunciation: tɕu
-
 # 'r'-onset (4 syllables)
 
 - hangeul: 라
   latin: ra
-  pronunciation: ɻä
+  pronunciation: ɻa
 
 - hangeul: 러
   latin: re
@@ -156,21 +112,17 @@
   latin: ru
   pronunciation: ɻu
 
-# 'm'-onset (8 syllables)  
+# 'm'-onset (5 syllables)  
 
 - hangeul: 마
   latin: ma
-  pronunciation: mä
-
-- hangeul: 먀
-  latin: mya
-  pronunciation: mjä
+  pronunciation: ma
 
 - hangeul: 머
   latin: me
   pronunciation: me̞
 
-- hangeul: 며
+- hangeul: 미
   latin: mi
   pronunciation: mi
 
@@ -178,33 +130,21 @@
   latin: mo
   pronunciation: mo̞
 
-- hangeul: 묘
-  latin: myo
-  pronunciation: mjo̞
-
 - hangeul: 무
   latin: mu
   pronunciation: mu
 
-- hangeul: 뮤
-  latin: myu
-  pronunciation: mju
-
-# 'b'-onset (8 syllables)
+# 'b'-onset (5 syllables)
 
 - hangeul: 바
   latin: ba
-  pronunciation: bä
-
-- hangeul: 뱌
-  latin: bya
-  pronunciation: bjä
+  pronunciation: ba
 
 - hangeul: 버
   latin: be
   pronunciation: be̞
 
-- hangeul: 벼
+- hangeul: 비
   latin: bi
   pronunciation: bi
 
@@ -212,33 +152,21 @@
   latin: bo
   pronunciation: bo̞
 
-- hangeul: 뵤
-  latin: byo
-  pronunciation: bjo̞
-
 - hangeul: 부
   latin: bu
   pronunciation: bu
 
-- hangeul: 뷰
-  latin: byu
-  pronunciation: bju
-
-# 'p'-onset (8 syllables)
+# 'p'-onset (5 syllables)
 
 - hangeul: 빠
   latin: pa
-  pronunciation: pä
-
-- hangeul: 뺘
-  latin: pya
-  pronunciation: pjä
+  pronunciation: pa
 
 - hangeul: 뻐
   latin: pe
   pronunciation: pe̞
 
-- hangeul: 뼈
+- hangeul: 삐
   latin: pi
   pronunciation: pi
 
@@ -246,116 +174,130 @@
   latin: po
   pronunciation: po̞
 
-- hangeul: 뾰
-  latin: pyo
-  pronunciation: pjo̞
-
 - hangeul: 뿌
   latin: pu
   pronunciation: pu
 
-- hangeul: 쀼
-  latin: pyu
-  pronunciation: pju
-
-# 'z'-onset (8 syllables)
+# 'z'-onset (5 syllables)
 
 - hangeul: 사
   latin: za
-  pronunciation: zä
-
-- hangeul: 샤
-  latin: zha
-  pronunciation: ʑä
+  pronunciation: za
 
 - hangeul: 서
   latin: ze
   pronunciation: ze̞
 
-- hangeul: 셔
-  latin: zhi
+- hangeul: 시
+  latin: zi
   pronunciation: ʑi
 
 - hangeul: 소
   latin: zo
   pronunciation: zo̞
 
-- hangeul: 쇼
-  latin: zho
-  pronunciation: ʑo̞
-
 - hangeul: 수
   latin: zu
   pronunciation: zu
 
-- hangeul: 슈
-  latin: zhu
-  pronunciation: ʑu
-
-# 's'-onset (8 syllables)
+# 's'-onset (5 syllables)
 
 - hangeul: 싸
   latin: sa
-  pronunciation: sä
-
-- hangeul: 쌰
-  latin: sha
-  pronunciation: ɕä
+  pronunciation: sa
 
 - hangeul: 써
   latin: se
   pronunciation: se̞
 
-- hangeul: 쎠
-  latin: shi
+- hangeul: 씨
+  latin: si
   pronunciation: ɕi
 
 - hangeul: 쏘
   latin: so
   pronunciation: so̞
 
-- hangeul: 쑈
-  latin: sho
-  pronunciation: ɕo̞
-
 - hangeul: 쑤
   latin: su
   pronunciation: su
 
-- hangeul: 쓔
-  latin: shu
-  pronunciation: ɕu
-
-# 'j'/'w'-onset (8 syllables)
+# 'y'-onset (5 syllables)
 
 - hangeul: 아
-  latin: wa
-  pronunciation: wä
-
-- hangeul: 야
   latin: ya
-  pronunciation: jä
+  pronunciation: ja
 
 - hangeul: 어
   latin: ye
   pronunciation: je̞
 
-- hangeul: 여
+- hangeul: 이
   latin: yi
   pronunciation: ji
 
 - hangeul: 오
-  latin: wo
-  pronunciation: wo̞
-
-- hangeul: 요
   latin: yo
   pronunciation: jo̞
 
 - hangeul: 우
-  latin: wu
-  pronunciation: wu
-
-- hangeul: 유
   latin: yu
   pronunciation: ju
+
+# 'j'-onset (5 syllables)
+
+- hangeul: 자
+  latin: ja
+  pronunciation: dʑa
+
+- hangeul: 저
+  latin: je
+  pronunciation: dʑe̞
+
+- hangeul: 지
+  latin: ji
+  pronunciation: dʑi
+
+- hangeul: 조
+  latin: jo
+  pronunciation: dʑo̞
+
+- hangeul: 주
+  latin: ju
+  pronunciation: dʑu
+
+# 'ch'-onset (5 syllables)
+
+- hangeul: 짜
+  latin: cha
+  pronunciation: tɕa
+
+- hangeul: 쩌
+  latin: che
+  pronunciation: tɕe̞
+
+- hangeul: 찌
+  latin: chi
+  pronunciation: tɕi
+
+- hangeul: 쪼
+  latin: cho
+  pronunciation: tɕo̞
+
+- hangeul: 쭈
+  latin: chu
+  pronunciation: tɕu
+
+  # 'w'-onset (3 syllables)
+
+- hangeul: 하
+  latin: wa
+  pronunciation: wa
+
+- hangeul: 호
+  latin: wo
+  pronunciation: wo̞
+
+- hangeul: 후
+  latin: wu
+  pronunciation: wu

@@ -1,6 +1,6 @@
 # Particles
 
-- nika: 녀
+- nika: 니
   class: part
   en: A grammatical particle that is attached to a clause
       in order to negate it
@@ -11,7 +11,7 @@
       that precedes another clause in order to coordinate them 
       conveying the conjunction
 
-- nika: 야
+- nika: 아
   class: part
   en: A grammatical particle that is attached to a clause 
       that precedes another clause in order to coordinate them 
@@ -27,7 +27,7 @@
   en: A grammatical particle that is attached to an indirect interrogative 
       subclause in order to nominalize it
 
-- nika: 여
+- nika: 이
   class: part
   en: A grammatical particle that is attached to a subclause 
       with a noun phrase acting as its verb (the copular verb) 
@@ -46,7 +46,7 @@
       that precedes another noun phrase in order to coordinate them 
       conveying the alternative
 
-- nika: 아
+- nika: 하
   class: part
   en: A grammatical particle that is attached to a noun phrase
       in order to mark the topic of the sentence (topic marker)
@@ -56,7 +56,7 @@
   en: A grammatical particle that is attached to a noun phrase
       in order to mark the subject of the sentence (nominative case marker)
 
-- nika: 오
+- nika: 호
   class: part
   en: A grammatical particle that is attached to a noun phrase 
       in order to mark the object of the sentence (accusative case marker)
@@ -73,7 +73,7 @@
       in order to indicate that it modifies another noun phrase
       that follows it (genitive case marker)
 
-# Syllable names (84 syllables)
+# Syllable names (68 syllables)
 
 # 'g'-onset (4 syllables)
 
@@ -111,21 +111,17 @@
   class: n
   en: The name of syllable 'ku'
 
-# 'n'-onset (8 syllables)
+# 'n'-onset (5 syllables)
 
 - nika: 나
   class: n
   en: The name of syllable 'na'
 
-- nika: 냐
-  class: n
-  en: The name of syllable 'nya'
-
 - nika: 너
   class: n
   en: The name of syllable 'ne'
 
-- nika: 녀
+- nika: 니
   class: n
   en: The name of syllable 'ni'
 
@@ -133,85 +129,45 @@
   class: n
   en: The name of syllable 'no'
 
-- nika: 뇨
-  class: n
-  en: The name of syllable 'nyo'
-
 - nika: 누
   class: n
   en: The name of syllable 'nu'
 
-- nika: 뉴
-  class: n
-  en: The name of syllable 'nyu'
-
-# 'd'-onset (8 syllables)
+# 'd'-onset (4 syllables)
 
 - nika: 다
   class: n
   en: The name of syllable 'da'
 
-- nika: 댜
-  class: n
-  en: The name of syllable 'ja'
-
 - nika: 더
   class: n
   en: The name of syllable 'de'
-
-- nika: 뎌
-  class: n
-  en: The name of syllable 'ji'
 
 - nika: 도
   class: n
   en: The name of syllable 'do'
 
-- nika: 됴
-  class: n
-  en: The name of syllable 'jo'
-
 - nika: 두
   class: n
   en: The name of syllable 'du'
 
-- nika: 듀
-  class: n
-  en: The name of syllable 'ju'
-
-# 't'-onset (8 syllables)
+# 't'-onset (4 syllables)
 
 - nika: 따
   class: n
   en: The name of syllable 'ta'
 
-- nika: 땨
-  class: n
-  en: The name of syllable 'cha'
-
 - nika: 떠
   class: n
   en: The name of syllable 'te'
-
-- nika: 뗘
-  class: n
-  en: The name of syllable 'chi'
 
 - nika: 또
   class: n
   en: The name of syllable 'to'
 
-- nika: 뚀
-  class: n
-  en: The name of syllable 'cho'
-
 - nika: 뚜
   class: n
   en: The name of syllable 'tu'
-
-- nika: 뜌
-  class: n
-  en: The name of syllable 'chu'
 
 # 'r'-onset (4 syllables)
 
@@ -231,21 +187,17 @@
   class: n
   en: The name of syllable 'ru'
 
-# 'm'-onset (8 syllables)  
+# 'm'-onset (5 syllables)  
 
 - nika: 마
   class: n
   en: The name of syllable 'ma'
 
-- nika: 먀
-  class: n
-  en: The name of syllable 'mya'
-
 - nika: 머
   class: n
   en: The name of syllable 'me'
 
-- nika: 며
+- nika: 미
   class: n
   en: The name of syllable 'mi'
 
@@ -253,33 +205,21 @@
   class: n
   en: The name of syllable 'mo'
 
-- nika: 묘
-  class: n
-  en: The name of syllable 'myo'
-
 - nika: 무
   class: n
   en: The name of syllable 'mu'
 
-- nika: 뮤
-  class: n
-  en: The name of syllable 'myu'
-
-# 'b'-onset (8 syllables)
+# 'b'-onset (5 syllables)
 
 - nika: 바
   class: n
   en: The name of syllable 'ba'
 
-- nika: 뱌
-  class: n
-  en: The name of syllable 'bya'
-
 - nika: 버
   class: n
   en: The name of syllable 'be'
 
-- nika: 벼
+- nika: 비
   class: n
   en: The name of syllable 'bi'
 
@@ -287,33 +227,21 @@
   class: n
   en: The name of syllable 'bo'
 
-- nika: 뵤
-  class: n
-  en: The name of syllable 'byo'
-
 - nika: 부
   class: n
   en: The name of syllable 'bu'
 
-- nika: 뷰
-  class: n
-  en: The name of syllable 'byu'
-
-# 'p'-onset (8 syllables)
+# 'p'-onset (5 syllables)
 
 - nika: 빠
   class: n
   en: The name of syllable 'pa'
 
-- nika: 뺘
-  class: n
-  en: The name of syllable 'pya'
-
 - nika: 뻐
   class: n
   en: The name of syllable 'pe'
 
-- nika: 뼈
+- nika: 삐
   class: n
   en: The name of syllable 'pi'
 
@@ -321,93 +249,57 @@
   class: n
   en: The name of syllable 'po'
 
-- nika: 뾰
-  class: n
-  en: The name of syllable 'pyo'
-
 - nika: 뿌
   class: n
   en: The name of syllable 'pu'
 
-- nika: 쀼
-  class: n
-  en: The name of syllable 'pyu'
-
-# 'z'-onset (8 syllables)
+# 'z'-onset (5 syllables)
 
 - nika: 사
   class: n
   en: The name of syllable 'za'
 
-- nika: 샤
-  class: n
-  en: The name of syllable 'zha'
-
 - nika: 서
   class: n
   en: The name of syllable 'ze'
 
-- nika: 셔
+- nika: 시
   class: n
-  en: The name of syllable 'zhi'
+  en: The name of syllable 'zi'
 
 - nika: 소
   class: n
   en: The name of syllable 'zo'
 
-- nika: 쇼
-  class: n
-  en: The name of syllable 'zho'
-
 - nika: 수
   class: n
   en: The name of syllable 'zu'
 
-- nika: 슈
-  class: n
-  en: The name of syllable 'zhu'
-
-# 's'-onset (8 syllables)
+# 's'-onset (5 syllables)
 
 - nika: 싸
   class: n
   en: The name of syllable 'sa'
 
-- nika: 쌰
-  class: n
-  en: The name of syllable 'sha'
-
 - nika: 써
   class: n
   en: The name of syllable 'se'
 
-- nika: 쎠
+- nika: 씨
   class: n
-  en: The name of syllable 'shi'
+  en: The name of syllable 'si'
 
 - nika: 쏘
   class: n
   en: The name of syllable 'so'
 
-- nika: 쑈
-  class: n
-  en: The name of syllable 'sho'
-
 - nika: 쑤
   class: n
   en: The name of syllable 'su'
 
-- nika: 쓔
-  class: n
-  en: The name of syllable 'shu'
-
-# 'j'/'w'-onset (8 syllables)
+# 'y'-onset (5 syllables)
 
 - nika: 아
-  class: n
-  en: The name of syllable 'wa'
-
-- nika: 야
   class: n
   en: The name of syllable 'ya'
 
@@ -415,57 +307,107 @@
   class: n
   en: The name of syllable 'ye'
 
-- nika: 여
+- nika: 이
   class: n
   en: The name of syllable 'yi'
 
 - nika: 오
   class: n
-  en: The name of syllable 'wo'
-
-- nika: 요
-  class: n
   en: The name of syllable 'yo'
 
 - nika: 우
   class: n
-  en: The name of syllable 'wu'
-
-- nika: 유
-  class: n
   en: The name of syllable 'yu'
+
+# 'j'-onset (5 syllables)
+
+- nika: 자
+  class: n
+  en: The name of syllable 'ja'
+
+- nika: 저
+  class: n
+  en: The name of syllable 'je'
+
+- nika: 지
+  class: n
+  en: The name of syllable 'ji'
+
+- nika: 조
+  class: n
+  en: The name of syllable 'jo'
+
+- nika: 주
+  class: n
+  en: The name of syllable 'ju'
+
+# 'ch'-onset (5 syllables)
+
+- nika: 짜
+  class: n
+  en: The name of syllable 'cha'
+
+- nika: 쩌
+  class: n
+  en: The name of syllable 'che'
+
+- nika: 찌
+  class: n
+  en: The name of syllable 'chi'
+
+- nika: 쪼
+  class: n
+  en: The name of syllable 'cho'
+
+- nika: 쭈
+  class: n
+  en: The name of syllable 'chu'
+
+  # 'w'-onset (3 syllables)
+
+- nika: 하
+  class: n
+  en: The name of syllable 'wa'
+
+- nika: 호
+  class: n
+  en: The name of syllable 'wo'
+
+- nika: 후
+  class: n
+  en: The name of syllable 'wu'
 
 # Numerals
 
-- nika: 여뎌
+- nika: 이지
   class: n
   en: one
 
-- nika: 녀
+- nika: 니
   class: n
   en: two
 
-- nika: 싸며
+- nika: 싸미
   class: n
   en: three
 
-- nika: 쎠
+- nika: 씨
   class: n
   en: four
 
-- nika: 오
+- nika: 호
   class: n
   en: five
 
-- nika: 유구
+- nika: 우구
   class: n
   en: six
 
-- nika: 쎠뎌
+- nika: 씨지
   class: n
   en: seven
 
-- nika: 빠뎌
+- nika: 빠지
   class: n
   en: eight
 
@@ -473,6 +415,6 @@
   class: n
   en: nine
 
-- nika: 셔벼
+- nika: 시비
   class: n
   en: ten
