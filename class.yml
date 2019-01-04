@@ -1,6 +1,9 @@
 - id: morph
   parent_id: morph
   name: morpheme
+- id: symb
+  parent_id: morph
+  name: symbol
 - id: part
   parent_id: morph
   name: particle
