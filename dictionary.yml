@@ -377,6 +377,200 @@
   class: n
   en: The name of syllable 'wu'
 
+# Numbers
+
+- nika: 라
+  class: symb
+  en: 0 (0 × 12⁰)
+
+- nika: 가
+  class: symb
+  en: 1 (1 × 12⁰)
+
+- nika: 까
+  class: symb
+  en: 2 (2 × 12⁰)
+
+- nika: 다
+  class: symb
+  en: 3 (3 × 12⁰)
+
+- nika: 따
+  class: symb
+  en: 4 (4 × 12⁰)
+
+- nika: 바
+  class: symb
+  en: 5 (5 × 12⁰)
+
+- nika: 빠
+  class: symb
+  en: 6 (6 × 12⁰)
+
+- nika: 사
+  class: symb
+  en: 7 (7 × 12⁰)
+
+- nika: 싸
+  class: symb
+  en: 8 (8 × 12⁰)
+
+- nika: 자
+  class: symb
+  en: 9 (9 × 12⁰)
+
+- nika: 짜
+  class: symb
+  en: 10 (10 × 12⁰)
+
+- nika: 아
+  class: symb
+  en: 11 (11 × 12⁰)
+
+- nika: 러
+  class: symb
+  en: 0 (0 × 12¹)
+
+- nika: 거
+  class: symb
+  en: 12 (1 × 12¹)
+
+- nika: 꺼
+  class: symb
+  en: 24 (2 × 12¹)
+
+- nika: 더
+  class: symb
+  en: 36 (3 × 12¹)
+
+- nika: 떠
+  class: symb
+  en: 48 (4 × 12¹)
+
+- nika: 버
+  class: symb
+  en: 60 (5 × 12¹)
+
+- nika: 뻐
+  class: symb
+  en: 72 (6 × 12¹)
+
+- nika: 서
+  class: symb
+  en: 84 (7 × 12¹)
+
+- nika: 써
+  class: symb
+  en: 96 (8 × 12¹)
+
+- nika: 저
+  class: symb
+  en: 108 (9 × 12¹)
+
+- nika: 쩌
+  class: symb
+  en: 120 (10 × 12¹)
+
+- nika: 어
+  class: symb
+  en: 132 (11 × 12¹)
+
+- nika: 로
+  class: symb
+  en: 0 (0 × 12²)
+
+- nika: 고
+  class: symb
+  en: 144 (1 × 12²)
+
+- nika: 꼬
+  class: symb
+  en: 288 (2 × 12²)
+
+- nika: 도
+  class: symb
+  en: 432 (3 × 12²)
+
+- nika: 또
+  class: symb
+  en: 576 (4 × 12²)
+
+- nika: 보
+  class: symb
+  en: 720 (5 × 12²)
+
+- nika: 뽀
+  class: symb
+  en: 864 (6 × 12²)
+
+- nika: 소
+  class: symb
+  en: 1,008 (7 × 12²)
+
+- nika: 쏘
+  class: symb
+  en: 1,152 (8 × 12²)
+
+- nika: 조
+  class: symb
+  en: 1,296 (9 × 12²)
+
+- nika: 쪼
+  class: symb
+  en: 1,440 (10 × 12²)
+
+- nika: 오
+  class: symb
+  en: 1,578 (11 × 12²)
+
+- nika: 루
+  class: symb
+  en: 0 (0 × 12³)
+
+- nika: 구
+  class: symb
+  en: 1,728 (1 × 12³)
+
+- nika: 꾸
+  class: symb
+  en: 3,456 (2 × 12³)
+
+- nika: 두
+  class: symb
+  en: 5,184 (3 × 12³)
+
+- nika: 뚜
+  class: symb
+  en: 6,912 (4 × 12³)
+
+- nika: 부
+  class: symb
+  en: 8,640 (5 × 12³)
+
+- nika: 뿌
+  class: symb
+  en: 10,368 (6 × 12³)
+
+- nika: 수
+  class: symb
+  en: 12,096 (7 × 12³)
+
+- nika: 쑤
+  class: symb
+  en: 13,824 (8 × 12³)
+
+- nika: 주
+  class: symb
+  en: 15,552 (9 × 12³)
+
+- nika: 쭈
+  class: symb
+  en: 17,280 (10 × 12³)
+
+- nika: 우
+  class: symb
+  en: 19,008 (11 × 12³)
+
 # Numerals
 
 - nika: 러니
