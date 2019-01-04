@@ -719,61 +719,76 @@
 
 - nika: 러니
   class: n
-  en: zero
+  en: zero (0, 0₁₂)
+  seeAlso: 〔라〕
 
 - nika: 이지
   class: n
-  en: one
+  en: one  (1, 1₁₂)
+  seeAlso: 〔가〕
 
 - nika: 니
   class: n
-  en: two
+  en: two (2, 2₁₂)
+  seeAlso: 〔까〕
 
 - nika: 싸미
   class: n
-  en: three
+  en: three (3, 3₁₂)
+  seeAlso: 〔다〕
 
 - nika: 씨
   class: n
-  en: four
+  en: four (4, 4₁₂)
+  seeAlso: 〔따〕
 
 - nika: 호
   class: n
-  en: five
+  en: five (5, 5₁₂)
+  seeAlso: 〔바〕
 
 - nika: 우구
   class: n
-  en: six
+  en: six (6, 6₁₂)
+  seeAlso: 〔빠〕
 
 - nika: 씨지
   class: n
-  en: seven
+  en: seven (7, 7₁₂)
+  seeAlso: 〔사〕
 
 - nika: 빠지
   class: n
-  en: eight
+  en: eight (8, 8₁₂)
+  seeAlso: 〔싸〕
 
 - nika: 꾸
   class: n
-  en: nine
+  en: nine (9, 9₁₂)
+  seeAlso: 〔자〕
 
 - nika: 시비
   class: n
-  en: ten
+  en: ten (10, ↊₁₂)
+  seeAlso: 〔짜〕
 
 - nika: 시지
   class: n
-  en: eleven
+  en: eleven (11, ↋₁₂)
+  seeAlso: 〔아〕
 
 - nika: 도지
   class: n
-  en: twelve
+  en: twelve (12, 10₁₂)
+  seeAlso: 〔거〕
 
 - nika: 구로
   class: n
-  en: gross (144)
+  en: gross (144, 100₁₂)
+  seeAlso: 〔고〕
 
 - nika: 도로
   class: n
-  en: great gross (1728)
+  en: great gross (1728, 1000₁₂)
+  seeAlso: 〔구〕
 
