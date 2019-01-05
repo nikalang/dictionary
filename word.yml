@@ -1,99 +1,3 @@
-# Numerals
-
-- nika: 러니
-  class: n
-  meaning: zero
-  def: zero (0, 0₁₂)
-  see_also: 〔라〕
-
-- nika: 이지
-  class: n
-  meaning: one
-  def: one  (1, 1₁₂)
-  see_also: 〔가〕
-
-- nika: 니
-  class: n
-  meaning: two
-  def: two (2, 2₁₂)
-  see_also: 〔까〕
-
-- nika: 싸미
-  class: n
-  meaning: three
-  def: three (3, 3₁₂)
-  see_also: 〔다〕
-
-- nika: 씨
-  class: n
-  meaning: four
-  def: four (4, 4₁₂)
-  see_also: 〔따〕
-
-- nika: 호
-  class: n
-  meaning: five
-  def: five (5, 5₁₂)
-  see_also: 〔바〕
-
-- nika: 우구
-  class: n
-  meaning: six
-  def: six (6, 6₁₂)
-  see_also: 〔빠〕
-
-- nika: 씨지
-  class: n
-  meaning: seven
-  def: seven (7, 7₁₂)
-  see_also: 〔사〕
-
-- nika: 빠지
-  class: n
-  meaning: eight
-  def: eight (8, 8₁₂)
-  see_also: 〔싸〕
-
-- nika: 꾸
-  class: n
-  meaning: nine
-  def: nine (9, 9₁₂)
-  see_also: 〔자〕
-
-- nika: 시비
-  class: n
-  meaning: ten
-  def: ten (10, ↊₁₂)
-  see_also: 〔짜〕
-
-- nika: 시지
-  class: n
-  meaning: eleven
-  def: eleven (11, ↋₁₂)
-  see_also: 〔아〕
-
-- nika: 도지
-  class: n
-  meaning: twelve
-  def: twelve (12, 10₁₂)
-  see_also: 〔거〕
-
-- nika: 구로
-  class: n
-  meaning: gross
-  def: gross (144, 100₁₂)
-  see_also: 〔고〕
-
-- nika: 도로
-  class: n
-  meaning: great_gross
-  def: great gross (1728, 1000₁₂)
-  see_also: 〔구〕
-
-# Syllable names (68 syllables)
-
-# 'g'-onset (4 syllables)
-
 - nika: 가
   class: n
   meaning: syllable_ga
@@ -114,7 +18,11 @@
   meaning: syllable_gu
   def: The name of syllable 'gu'
 
-# 'k'-onset (4 syllables)
+- nika: 구로
+  class: n
+  meaning: gross
+  def: gross (144, 100₁₂)
+  see_also: 〔고〕
 
 - nika: 까
   class: n
@@ -136,7 +44,11 @@
   meaning: syllable_ku
   def: The name of syllable 'ku'
 
-# 'n'-onset (5 syllables)
+- nika: 꾸
+  class: n
+  meaning: nine
+  def: nine (9, 9₁₂)
+  see_also: 〔자〕
 
 - nika: 나
   class: n
@@ -148,11 +60,6 @@
   meaning: syllable_ne
   def: The name of syllable 'ne'
 
-- nika: 니
-  class: n
-  meaning: syllable_ni
-  def: The name of syllable 'ni'
-
 - nika: 노
   class: n
   meaning: syllable_no
@@ -163,7 +70,16 @@
   meaning: syllable_nu
   def: The name of syllable 'nu'
 
-# 'd'-onset (4 syllables)
+- nika: 니
+  class: n
+  meaning: syllable_ni
+  def: The name of syllable 'ni'
+
+- nika: 니
+  class: n
+  meaning: two
+  def: two (2, 2₁₂)
+  see_also: 〔까〕
 
 - nika: 다
   class: n
@@ -180,12 +96,22 @@
   meaning: syllable_do
   def: The name of syllable 'do'
 
+- nika: 도로
+  class: n
+  meaning: great_gross
+  def: great gross (1728, 1000₁₂)
+  see_also: 〔구〕
+
+- nika: 도지
+  class: n
+  meaning: twelve
+  def: twelve (12, 10₁₂)
+  see_also: 〔거〕
+
 - nika: 두
   class: n
   meaning: syllable_du
   def: The name of syllable 'du'
-
-# 't'-onset (4 syllables)
 
 - nika: 따
   class: n
@@ -207,8 +133,6 @@
   meaning: syllable_tu
   def: The name of syllable 'tu'
 
-# 'r'-onset (4 syllables)
-
 - nika: 라
   class: n
   meaning: syllable_ra
@@ -218,6 +142,12 @@
   class: n
   meaning: syllable_re
   def: The name of syllable 're'
+
+- nika: 러니
+  class: n
+  meaning: zero
+  def: zero (0, 0₁₂)
+  see_also: 〔라〕
 
 - nika: 로
   class: n
@@ -229,8 +159,6 @@
   meaning: syllable_ru
   def: The name of syllable 'ru'
 
-# 'm'-onset (5 syllables)  
-
 - nika: 마
   class: n
   meaning: syllable_ma
@@ -240,11 +168,6 @@
   class: n
   meaning: syllable_me
   def: The name of syllable 'me'
-
-- nika: 미
-  class: n
-  meaning: syllable_mi
-  def: The name of syllable 'mi'
 
 - nika: 모
   class: n
@@ -256,7 +179,10 @@
   meaning: syllable_mu
   def: The name of syllable 'mu'
 
-# 'b'-onset (5 syllables)
+- nika: 미
+  class: n
+  meaning: syllable_mi
+  def: The name of syllable 'mi'
 
 - nika: 바
   class: n
@@ -268,11 +194,6 @@
   meaning: syllable_be
   def: The name of syllable 'be'
 
-- nika: 비
-  class: n
-  meaning: syllable_bi
-  def: The name of syllable 'bi'
-
 - nika: 보
   class: n
   meaning: syllable_bo
@@ -283,22 +204,26 @@
   meaning: syllable_bu
   def: The name of syllable 'bu'
 
-# 'p'-onset (5 syllables)
+- nika: 비
+  class: n
+  meaning: syllable_bi
+  def: The name of syllable 'bi'
 
 - nika: 빠
   class: n
   meaning: syllable_pa
   def: The name of syllable 'pa'
 
+- nika: 빠지
+  class: n
+  meaning: eight
+  def: eight (8, 8₁₂)
+  see_also: 〔싸〕
+
 - nika: 뻐
   class: n
   meaning: syllable_pe
   def: The name of syllable 'pe'
-
-- nika: 삐
-  class: n
-  meaning: syllable_pi
-  def: The name of syllable 'pi'
 
 - nika: 뽀
   class: n
@@ -310,7 +235,10 @@
   meaning: syllable_pu
   def: The name of syllable 'pu'
 
-# 'z'-onset (5 syllables)
+- nika: 삐
+  class: n
+  meaning: syllable_pi
+  def: The name of syllable 'pi'
 
 - nika: 사
   class: n
@@ -322,11 +250,6 @@
   meaning: syllable_ze
   def: The name of syllable 'ze'
 
-- nika: 시
-  class: n
-  meaning: syllable_zi
-  def: The name of syllable 'zi'
-
 - nika: 소
   class: n
   meaning: syllable_zo
@@ -337,22 +260,38 @@
   meaning: syllable_zu
   def: The name of syllable 'zu'
 
-# 's'-onset (5 syllables)
+- nika: 시
+  class: n
+  meaning: syllable_zi
+  def: The name of syllable 'zi'
+
+- nika: 시비
+  class: n
+  meaning: ten
+  def: ten (10, ↊₁₂)
+  see_also: 〔짜〕
+
+- nika: 시지
+  class: n
+  meaning: eleven
+  def: eleven (11, ↋₁₂)
+  see_also: 〔아〕
 
 - nika: 싸
   class: n
   meaning: syllable_sa
   def: The name of syllable 'sa'
 
+- nika: 싸미
+  class: n
+  meaning: three
+  def: three (3, 3₁₂)
+  see_also: 〔다〕
+
 - nika: 써
   class: n
   meaning: syllable_se
   def: The name of syllable 'se'
-
-- nika: 씨
-  class: n
-  meaning: syllable_si
-  def: The name of syllable 'si'
 
 - nika: 쏘
   class: n
@@ -364,7 +303,22 @@
   meaning: syllable_su
   def: The name of syllable 'su'
 
-# 'y'-onset (5 syllables)
+- nika: 씨
+  class: n
+  meaning: syllable_si
+  def: The name of syllable 'si'
+
+- nika: 씨
+  class: n
+  meaning: four
+  def: four (4, 4₁₂)
+  see_also: 〔따〕
+
+- nika: 씨지
+  class: n
+  meaning: seven
+  def: seven (7, 7₁₂)
+  see_also: 〔사〕
 
 - nika: 아
   class: n
@@ -376,11 +330,6 @@
   meaning: syllable_ye
   def: The name of syllable 'ye'
 
-- nika: 이
-  class: n
-  meaning: syllable_yi
-  def: The name of syllable 'yi'
-
 - nika: 오
   class: n
   meaning: syllable_yo
@@ -391,7 +340,22 @@
   meaning: syllable_yu
   def: The name of syllable 'yu'
 
-# 'j'-onset (5 syllables)
+- nika: 우구
+  class: n
+  meaning: six
+  def: six (6, 6₁₂)
+  see_also: 〔빠〕
+
+- nika: 이
+  class: n
+  meaning: syllable_yi
+  def: The name of syllable 'yi'
+
+- nika: 이지
+  class: n
+  meaning: one
+  def: one  (1, 1₁₂)
+  see_also: 〔가〕
 
 - nika: 자
   class: n
@@ -403,11 +367,6 @@
   meaning: syllable_je
   def: The name of syllable 'je'
 
-- nika: 지
-  class: n
-  meaning: syllable_ji
-  def: The name of syllable 'ji'
-
 - nika: 조
   class: n
   meaning: syllable_jo
@@ -418,7 +377,10 @@
   meaning: syllable_ju
   def: The name of syllable 'ju'
 
-# 'ch'-onset (5 syllables)
+- nika: 지
+  class: n
+  meaning: syllable_ji
+  def: The name of syllable 'ji'
 
 - nika: 짜
   class: n
@@ -430,11 +392,6 @@
   meaning: syllable_che
   def: The name of syllable 'che'
 
-- nika: 찌
-  class: n
-  meaning: syllable_chi
-  def: The name of syllable 'chi'
-
 - nika: 쪼
   class: n
   meaning: syllable_cho
@@ -445,7 +402,10 @@
   meaning: syllable_chu
   def: The name of syllable 'chu'
 
-  # 'w'-onset (3 syllables)
+- nika: 찌
+  class: n
+  meaning: syllable_chi
+  def: The name of syllable 'chi'
 
 - nika: 하
   class: n
@@ -456,6 +416,12 @@
   class: n
   meaning: syllable_wo
   def: The name of syllable 'wo'
+
+- nika: 호
+  class: n
+  meaning: five
+  def: five (5, 5₁₂)
+  see_also: 〔바〕
 
 - nika: 후
   class: n
