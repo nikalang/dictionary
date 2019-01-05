@@ -1,0 +1,86 @@
+- nika: 니
+  class: part
+  meaning: not
+  def: A grammatical particle that is attached to a clause
+       in order to negate it
+
+- nika: 고
+  class: part
+  meaning: and
+  def: A grammatical particle that is attached to a clause
+       that precedes another clause in order to coordinate them 
+       conveying the conjunction
+
+- nika: 아
+  class: part
+  meaning: or
+  def: A grammatical particle that is attached to a clause 
+       that precedes another clause in order to coordinate them 
+       conveying the alternative
+
+- nika: 다
+  class: part
+  meaning: that
+  def: A grammatical particle that is attached to a declarative
+       subclause in order to nominalize it
+
+- nika: 까
+  class: part
+  meaning: whether
+  def: A grammatical particle that is attached to an indirect
+       interrogative subclause in order to nominalize it
+
+- nika: 이
+  class: part
+  meaning: copular_verb_nominalizer
+  def: A grammatical particle that is attached to a subclause 
+       with a noun phrase acting as its verb (the copular verb) 
+       when the subclause is a modifier of another noun 
+       or is followed by another particle
+
+- nika: 도
+  class: part
+  meaning: and
+  def: A grammatical particle that is attached to a noun phrase
+       that precedes another noun phrase in order to coordinate them 
+       conveying the conjunction
+
+- nika: 나
+  class: part
+  meaning: or
+  def: A grammatical particle that is attached to a noun phrase 
+       that precedes another noun phrase in order to coordinate them 
+       conveying the alternative
+
+- nika: 하
+  class: part
+  meaning: topic
+  def: A grammatical particle that is attached to a noun phrase
+       in order to mark the topic of the sentence (topic marker)
+
+- nika: 가
+  class: part
+  meaning: subject
+  def: A grammatical particle that is attached to a noun phrase
+       in order to mark the subject of the sentence (nominative case marker)
+
+- nika: 호
+  class: part
+  meaning: object
+  def: A grammatical particle that is attached to a noun phrase 
+       in order to mark the object of the sentence (accusative case marker)
+
+- nika: 어
+  class: part
+  meaning: adverb
+  def: A grammatical particle that is attached to a noun phrase
+       in order to convey its adverbial function 
+       (dative/locative/prepositional case marker)
+
+- nika: 노
+  class: part
+  meaning: adnoun
+  def: A grammatical particle that is attached to a noun phrase 
+       in order to indicate that it modifies another noun phrase
+       that follows it (genitive case marker)
+

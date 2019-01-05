@@ -1,0 +1,464 @@
+# Numerals
+
+- nika: 러니
+  class: n
+  meaning: zero
+  def: zero (0, 0₁₂)
+  see_also: 〔라〕
+
+- nika: 이지
+  class: n
+  meaning: one
+  def: one  (1, 1₁₂)
+  see_also: 〔가〕
+
+- nika: 니
+  class: n
+  meaning: two
+  def: two (2, 2₁₂)
+  see_also: 〔까〕
+
+- nika: 싸미
+  class: n
+  meaning: three
+  def: three (3, 3₁₂)
+  see_also: 〔다〕
+
+- nika: 씨
+  class: n
+  meaning: four
+  def: four (4, 4₁₂)
+  see_also: 〔따〕
+
+- nika: 호
+  class: n
+  meaning: five
+  def: five (5, 5₁₂)
+  see_also: 〔바〕
+
+- nika: 우구
+  class: n
+  meaning: six
+  def: six (6, 6₁₂)
+  see_also: 〔빠〕
+
+- nika: 씨지
+  class: n
+  meaning: seven
+  def: seven (7, 7₁₂)
+  see_also: 〔사〕
+
+- nika: 빠지
+  class: n
+  meaning: eight
+  def: eight (8, 8₁₂)
+  see_also: 〔싸〕
+
+- nika: 꾸
+  class: n
+  meaning: nine
+  def: nine (9, 9₁₂)
+  see_also: 〔자〕
+
+- nika: 시비
+  class: n
+  meaning: ten
+  def: ten (10, ↊₁₂)
+  see_also: 〔짜〕
+
+- nika: 시지
+  class: n
+  meaning: eleven
+  def: eleven (11, ↋₁₂)
+  see_also: 〔아〕
+
+- nika: 도지
+  class: n
+  meaning: twelve
+  def: twelve (12, 10₁₂)
+  see_also: 〔거〕
+
+- nika: 구로
+  class: n
+  meaning: gross
+  def: gross (144, 100₁₂)
+  see_also: 〔고〕
+
+- nika: 도로
+  class: n
+  meaning: great_gross
+  def: great gross (1728, 1000₁₂)
+  see_also: 〔구〕
+
+# Syllable names (68 syllables)
+
+# 'g'-onset (4 syllables)
+
+- nika: 가
+  class: n
+  meaning: syllable_ga
+  def: The name of syllable 'ga'
+
+- nika: 거
+  class: n
+  meaning: syllable_ge
+  def: The name of syllable 'ge'
+
+- nika: 고
+  class: n
+  meaning: syllable_go
+  def: The name of syllable 'go'
+
+- nika: 구
+  class: n
+  meaning: syllable_gu
+  def: The name of syllable 'gu'
+
+# 'k'-onset (4 syllables)
+
+- nika: 까
+  class: n
+  meaning: syllable_ka
+  def: The name of syllable 'ka'
+
+- nika: 꺼
+  class: n
+  meaning: syllable_ke
+  def: The name of syllable 'ke'
+
+- nika: 꼬
+  class: n
+  meaning: syllable_ko
+  def: The name of syllable 'ko'
+
+- nika: 꾸
+  class: n
+  meaning: syllable_ku
+  def: The name of syllable 'ku'
+
+# 'n'-onset (5 syllables)
+
+- nika: 나
+  class: n
+  meaning: syllable_na
+  def: The name of syllable 'na'
+
+- nika: 너
+  class: n
+  meaning: syllable_ne
+  def: The name of syllable 'ne'
+
+- nika: 니
+  class: n
+  meaning: syllable_ni
+  def: The name of syllable 'ni'
+
+- nika: 노
+  class: n
+  meaning: syllable_no
+  def: The name of syllable 'no'
+
+- nika: 누
+  class: n
+  meaning: syllable_nu
+  def: The name of syllable 'nu'
+
+# 'd'-onset (4 syllables)
+
+- nika: 다
+  class: n
+  meaning: syllable_da
+  def: The name of syllable 'da'
+
+- nika: 더
+  class: n
+  meaning: syllable_de
+  def: The name of syllable 'de'
+
+- nika: 도
+  class: n
+  meaning: syllable_do
+  def: The name of syllable 'do'
+
+- nika: 두
+  class: n
+  meaning: syllable_du
+  def: The name of syllable 'du'
+
+# 't'-onset (4 syllables)
+
+- nika: 따
+  class: n
+  meaning: syllable_ta
+  def: The name of syllable 'ta'
+
+- nika: 떠
+  class: n
+  meaning: syllable_te
+  def: The name of syllable 'te'
+
+- nika: 또
+  class: n
+  meaning: syllable_to
+  def: The name of syllable 'to'
+
+- nika: 뚜
+  class: n
+  meaning: syllable_tu
+  def: The name of syllable 'tu'
+
+# 'r'-onset (4 syllables)
+
+- nika: 라
+  class: n
+  meaning: syllable_ra
+  def: The name of syllable 'ra'
+
+- nika: 러
+  class: n
+  meaning: syllable_re
+  def: The name of syllable 're'
+
+- nika: 로
+  class: n
+  meaning: syllable_ro
+  def: The name of syllable 'ro'
+
+- nika: 루
+  class: n
+  meaning: syllable_ru
+  def: The name of syllable 'ru'
+
+# 'm'-onset (5 syllables)  
+
+- nika: 마
+  class: n
+  meaning: syllable_ma
+  def: The name of syllable 'ma'
+
+- nika: 머
+  class: n
+  meaning: syllable_me
+  def: The name of syllable 'me'
+
+- nika: 미
+  class: n
+  meaning: syllable_mi
+  def: The name of syllable 'mi'
+
+- nika: 모
+  class: n
+  meaning: syllable_mo
+  def: The name of syllable 'mo'
+
+- nika: 무
+  class: n
+  meaning: syllable_mu
+  def: The name of syllable 'mu'
+
+# 'b'-onset (5 syllables)
+
+- nika: 바
+  class: n
+  meaning: syllable_ba
+  def: The name of syllable 'ba'
+
+- nika: 버
+  class: n
+  meaning: syllable_be
+  def: The name of syllable 'be'
+
+- nika: 비
+  class: n
+  meaning: syllable_bi
+  def: The name of syllable 'bi'
+
+- nika: 보
+  class: n
+  meaning: syllable_bo
+  def: The name of syllable 'bo'
+
+- nika: 부
+  class: n
+  meaning: syllable_bu
+  def: The name of syllable 'bu'
+
+# 'p'-onset (5 syllables)
+
+- nika: 빠
+  class: n
+  meaning: syllable_pa
+  def: The name of syllable 'pa'
+
+- nika: 뻐
+  class: n
+  meaning: syllable_pe
+  def: The name of syllable 'pe'
+
+- nika: 삐
+  class: n
+  meaning: syllable_pi
+  def: The name of syllable 'pi'
+
+- nika: 뽀
+  class: n
+  meaning: syllable_po
+  def: The name of syllable 'po'
+
+- nika: 뿌
+  class: n
+  meaning: syllable_pu
+  def: The name of syllable 'pu'
+
+# 'z'-onset (5 syllables)
+
+- nika: 사
+  class: n
+  meaning: syllable_za
+  def: The name of syllable 'za'
+
+- nika: 서
+  class: n
+  meaning: syllable_ze
+  def: The name of syllable 'ze'
+
+- nika: 시
+  class: n
+  meaning: syllable_zi
+  def: The name of syllable 'zi'
+
+- nika: 소
+  class: n
+  meaning: syllable_zo
+  def: The name of syllable 'zo'
+
+- nika: 수
+  class: n
+  meaning: syllable_zu
+  def: The name of syllable 'zu'
+
+# 's'-onset (5 syllables)
+
+- nika: 싸
+  class: n
+  meaning: syllable_sa
+  def: The name of syllable 'sa'
+
+- nika: 써
+  class: n
+  meaning: syllable_se
+  def: The name of syllable 'se'
+
+- nika: 씨
+  class: n
+  meaning: syllable_si
+  def: The name of syllable 'si'
+
+- nika: 쏘
+  class: n
+  meaning: syllable_so
+  def: The name of syllable 'so'
+
+- nika: 쑤
+  class: n
+  meaning: syllable_su
+  def: The name of syllable 'su'
+
+# 'y'-onset (5 syllables)
+
+- nika: 아
+  class: n
+  meaning: syllable_ya
+  def: The name of syllable 'ya'
+
+- nika: 어
+  class: n
+  meaning: syllable_ye
+  def: The name of syllable 'ye'
+
+- nika: 이
+  class: n
+  meaning: syllable_yi
+  def: The name of syllable 'yi'
+
+- nika: 오
+  class: n
+  meaning: syllable_yo
+  def: The name of syllable 'yo'
+
+- nika: 우
+  class: n
+  meaning: syllable_yu
+  def: The name of syllable 'yu'
+
+# 'j'-onset (5 syllables)
+
+- nika: 자
+  class: n
+  meaning: syllable_ja
+  def: The name of syllable 'ja'
+
+- nika: 저
+  class: n
+  meaning: syllable_je
+  def: The name of syllable 'je'
+
+- nika: 지
+  class: n
+  meaning: syllable_ji
+  def: The name of syllable 'ji'
+
+- nika: 조
+  class: n
+  meaning: syllable_jo
+  def: The name of syllable 'jo'
+
+- nika: 주
+  class: n
+  meaning: syllable_ju
+  def: The name of syllable 'ju'
+
+# 'ch'-onset (5 syllables)
+
+- nika: 짜
+  class: n
+  meaning: syllable_cha
+  def: The name of syllable 'cha'
+
+- nika: 쩌
+  class: n
+  meaning: syllable_che
+  def: The name of syllable 'che'
+
+- nika: 찌
+  class: n
+  meaning: syllable_chi
+  def: The name of syllable 'chi'
+
+- nika: 쪼
+  class: n
+  meaning: syllable_cho
+  def: The name of syllable 'cho'
+
+- nika: 쭈
+  class: n
+  meaning: syllable_chu
+  def: The name of syllable 'chu'
+
+  # 'w'-onset (3 syllables)
+
+- nika: 하
+  class: n
+  meaning: syllable_wa
+  def: The name of syllable 'wa'
+
+- nika: 호
+  class: n
+  meaning: syllable_wo
+  def: The name of syllable 'wo'
+
+- nika: 후
+  class: n
+  meaning: syllable_wu
+  def: The name of syllable 'wu'
+

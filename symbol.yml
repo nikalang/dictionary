@@ -1,0 +1,473 @@
+# Punctuation Marks
+
+- nika: ︒
+  class: symb
+  meaning: full_stop
+  def: The full stop, a symbol used to terminate a declarative
+       sentence (usually skipped unless followed by another sentence)
+  unicode: U+FE12
+
+- nika: ︖
+  class: symb
+  meaning: question_mark
+  def: The question mark, a symbol used to terminate a direct interrogative
+       sentence
+  unicode: U+FE16
+
+- nika: ︕
+  class: symb
+  meaning: exclamation_mark
+  def: The exclamation mark, a symbol used to terminate an imperative
+       sentence
+  unicode: U+FE15
+
+- nika: ︹
+  class: symb
+  meaning: opening_tortoise_shell_bracket
+  def: The opening tortoise shell bracket, a symbol used to mark
+       the beginning of a numerical sequence
+  unicode: U+FE39
+
+- nika: ︺
+  class: symb
+  meaning: closing_tortoise_shell_bracket
+  def: The closing tortoise shell bracket, a symbol used to mark the end
+       of a numerical sequence
+  unicode: U+FE3A
+
+- nika: ︻
+  class: symb
+  meaning: opening_lenticular_bracket
+  def: The opening lenticular bracket, a symbol used to mark the beginning
+       of a proper noun
+  unicode: U+FE39
+
+- nika: ︼
+  class: symb
+  meaning: closing_lenticular_bracket
+  def: The closing lenticular bracket, a symbol used to mark the end
+       of a proper noun
+  unicode: U+FE3A
+
+# Syllables as Digits
+
+- nika: 라
+  class: symb
+  meaning: digit_0
+  def: 0 (0 × 12⁰); 0₁₂
+
+- nika: 가
+  class: symb
+  meaning: digit_1
+  def: 1 (1 × 12⁰); 1₁₂
+
+- nika: 까
+  class: symb
+  meaning: digit_2
+  def: 2 (2 × 12⁰); 2₁₂
+
+- nika: 다
+  class: symb
+  meaning: digit_3
+  def: 3 (3 × 12⁰); 3₁₂
+
+- nika: 따
+  class: symb
+  meaning: digit_4
+  def: 4 (4 × 12⁰); 4₁₂
+
+- nika: 바
+  class: symb
+  meaning: digit_5
+  def: 5 (5 × 12⁰); 5₁₂
+
+- nika: 빠
+  class: symb
+  meaning: digit_6
+  def: 6 (6 × 12⁰); 6₁₂
+
+- nika: 사
+  class: symb
+  meaning: digit_7
+  def: 7 (7 × 12⁰); 7₁₂
+
+- nika: 싸
+  class: symb
+  meaning: digit_8
+  def: 8 (8 × 12⁰); 8₁₂
+
+- nika: 자
+  class: symb
+  meaning: digit_9
+  def: 9 (9 × 12⁰); 9₁₂
+
+- nika: 짜
+  class: symb
+  meaning: digit_10
+  def: 10 (10 × 12⁰); ↊₁₂
+
+- nika: 아
+  class: symb
+  meaning: digit_11
+  def: 11 (11 × 12⁰); ↋₁₂
+
+- nika: 러
+  class: symb
+  meaning: digit_00
+  def: 0 (0 × 12¹); 0₁₂
+
+- nika: 거
+  class: symb
+  meaning: digit_12
+  def: 12 (1 × 12¹); 10₁₂
+
+- nika: 꺼
+  class: symb
+  meaning: digit_24
+  def: 24 (2 × 12¹); 20₁₂
+
+- nika: 더
+  class: symb
+  meaning: digit_36
+  def: 36 (3 × 12¹); 30₁₂
+
+- nika: 떠
+  class: symb
+  meaning: digit_48
+  def: 48 (4 × 12¹); 40₁₂
+
+- nika: 버
+  class: symb
+  meaning: digit_60
+  def: 60 (5 × 12¹); 50₁₂
+
+- nika: 뻐
+  class: symb
+  meaning: digit_72
+  def: 72 (6 × 12¹); 60₁₂
+
+- nika: 서
+  class: symb
+  meaning: digit_84
+  def: 84 (7 × 12¹); 70₁₂
+
+- nika: 써
+  class: symb
+  meaning: digit_96
+  def: 96 (8 × 12¹); 80₁₂
+
+- nika: 저
+  class: symb
+  meaning: digit_108
+  def: 108 (9 × 12¹); 90₁₂
+
+- nika: 쩌
+  class: symb
+  meaning: digit_120
+  def: 120 (10 × 12¹); ↊0₁₂
+
+- nika: 어
+  class: symb
+  meaning: digit_132
+  def: 132 (11 × 12¹); ↋0₁₂
+
+- nika: 로
+  class: symb
+  meaning: digit_000
+  def: 0 (0 × 12²); 0₁₂
+
+- nika: 고
+  class: symb
+  meaning: digit_144
+  def: 144 (1 × 12²); 100₁₂
+
+- nika: 꼬
+  class: symb
+  meaning: digit_288
+  def: 288 (2 × 12²); 200₁₂
+
+- nika: 도
+  class: symb
+  meaning: digit_432
+  def: 432 (3 × 12²); 300₁₂
+
+- nika: 또
+  class: symb
+  meaning: digit_576
+  def: 576 (4 × 12²); 400₁₂
+
+- nika: 보
+  class: symb
+  meaning: digit_720
+  def: 720 (5 × 12²); 500₁₂
+
+- nika: 뽀
+  class: symb
+  meaning: digit_864
+  def: 864 (6 × 12²); 600₁₂
+
+- nika: 소
+  class: symb
+  meaning: digit_1008
+  def: 1,008 (7 × 12²); 700₁₂
+
+- nika: 쏘
+  class: symb
+  meaning: digit_1152
+  def: 1,152 (8 × 12²); 800₁₂
+
+- nika: 조
+  class: symb
+  meaning: digit_1296
+  def: 1,296 (9 × 12²); 900₁₂
+
+- nika: 쪼
+  class: symb
+  meaning: digit_1440
+  def: 1,440 (10 × 12²); ↊00₁₂
+
+- nika: 오
+  class: symb
+  meaning: digit_1578
+  def: 1,578 (11 × 12²); ↋00₁₂
+
+- nika: 루
+  class: symb
+  meaning: digit_0000
+  def: 0 (0 × 12³); 0₁₂
+
+- nika: 구
+  class: symb
+  meaning: digit_1728
+  def: 1,728 (1 × 12³); 1,000₁₂
+
+- nika: 꾸
+  class: symb
+  meaning: digit_3456
+  def: 3,456 (2 × 12³); 2,000₁₂
+
+- nika: 두
+  class: symb
+  meaning: digit_5184
+  def: 5,184 (3 × 12³); 3,000₁₂
+
+- nika: 뚜
+  class: symb
+  meaning: digit_6912
+  def: 6,912 (4 × 12³); 4,000₁₂
+
+- nika: 부
+  class: symb
+  meaning: digit_8640
+  def: 8,640 (5 × 12³); 5,000₁₂
+
+- nika: 뿌
+  class: symb
+  meaning: digit_10368
+  def: 10,368 (6 × 12³); 6,000₁₂
+
+- nika: 수
+  class: symb
+  meaning: digit_12096
+  def: 12,096 (7 × 12³); 7,000₁₂
+
+- nika: 쑤
+  class: symb
+  meaning: digit_13824
+  def: 13,824 (8 × 12³); 8,000₁₂
+
+- nika: 주
+  class: symb
+  meaning: digit_15552
+  def: 15,552 (9 × 12³); 9,000₁₂
+
+- nika: 쭈
+  class: symb
+  meaning: digit_17280
+  def: 17,280 (10 × 12³); ↊,000₁₂
+
+- nika: 우
+  class: symb
+  meaning: digit_19008
+  def: 19,008 (11 × 12³); ↋,000₁₂
+
+- nika: 러
+  class: symb
+  meaning: fractional_digit_0_12
+  def: ⁰/₁₂ (0 × 12⁻¹); 0.0₁₂
+
+- nika: 거
+  class: symb
+  meaning: fractional_digit_1_12
+  def: ¹/₁₂ (1 × 12⁻¹); 0.1₁₂
+
+- nika: 꺼
+  class: symb
+  meaning: fractional_digit_1_6
+  def: ¹/₆ (2 × 12⁻¹); 0.2₁₂
+
+- nika: 더
+  class: symb
+  meaning: fractional_digit_1_4
+  def: ¹/₄ (3 × 12⁻¹); 0.3₁₂
+
+- nika: 떠
+  class: symb
+  meaning: fractional_digit_1_3
+  def: ¹/₃ (4 × 12⁻¹); 0.4₁₂
+
+- nika: 버
+  class: symb
+  meaning: fractional_digit_5_12
+  def: ⁵/₁₂ (5 × 12⁻¹); 0.5₁₂
+
+- nika: 뻐
+  class: symb
+  meaning: fractional_digit_1_2
+  def: ¹/₂ (6 × 12⁻¹); 0.6₁₂
+
+- nika: 서
+  class: symb
+  meaning: fractional_digit_7_12
+  def: ⁷/₁₂ (7 × 12⁻¹); 0.7₁₂
+
+- nika: 써
+  class: symb
+  meaning: fractional_digit_2_3
+  def: ²/₃ (8 × 12⁻¹); 0.8₁₂
+
+- nika: 저
+  class: symb
+  meaning: fractional_digit_3_4
+  def: ³/₄ (9 × 12⁻¹); 0.9₁₂
+
+- nika: 쩌
+  class: symb
+  meaning: fractional_digit_5_6
+  def: ⁵/₆ (10 × 12⁻¹); 0.↊₁₂
+
+- nika: 어
+  class: symb
+  meaning: fractional_digit_11_12
+  def: ¹¹/₁₂ (11 × 12⁻¹); 0.↋₁₂
+
+- nika: 로
+  class: symb
+  meaning: fractional_digit_0_144
+  def: ⁰/₁₄₄ (0 × 12⁻²); 0.00₁₂
+
+- nika: 고
+  class: symb
+  meaning: fractional_digit_1_144
+  def: ¹/₁₄₄ (1 × 12⁻²); 0.01₁₂
+
+- nika: 꼬
+  class: symb
+  meaning: fractional_digit_1_72
+  def: ¹/₇₂ (2 × 12⁻²); 0.02₁₂
+
+- nika: 도
+  class: symb
+  meaning: fractional_digit_1_48
+  def: ¹/₄₈ (3 × 12⁻²); 0.03₁₂
+
+- nika: 또
+  class: symb
+  meaning: fractional_digit_1_36
+  def: ¹/₃₆ (4 × 12⁻²); 0.04₁₂
+
+- nika: 보
+  class: symb
+  meaning:
+  def: ⁵/₁₄₄ (5 × 12⁻²); 0.05₁₂
+
+- nika: 뽀
+  class: symb
+  meaning: fractional_digit_1_24
+  def: ¹/₂₄ (6 × 12⁻²); 0.06₁₂
+
+- nika: 소
+  class: symb
+  meaning: fractional_digit_7_144
+  def: ⁷/₁₄₄ (7 × 12⁻²); 0.07₁₂
+
+- nika: 쏘
+  class: symb
+  meaning: fractional_digit_1_18
+  def: ¹/₁₈ (8 × 12⁻²); 0.08₁₂
+
+- nika: 조
+  class: symb
+  meaning: fractional_digit_1_16
+  def: ¹/₁₆ (9 × 12⁻²); 0.09₁₂
+
+- nika: 쪼
+  class: symb
+  meaning: fractional_digit_5_72
+  def: ⁵/₇₂ (10 × 12⁻²); 0.0↊₁₂
+
+- nika: 오
+  class: symb
+  meaning: fractional_digit_11_144
+  def: ¹¹/₁₄₄ (11 × 12⁻²); 0.0↋₁₂
+
+- nika: 루
+  class: symb
+  meaning: fractional_digit_0_1728
+  def: ⁰/₁₇₂₈ (0 × 12⁻³); 0.000₁₂
+
+- nika: 구
+  class: symb
+  meaning: fractional_digit_1_1728
+  def: ¹/₁₇₂₈ (1 × 12⁻³); 0.001₁₂
+
+- nika: 꾸
+  class: symb
+  meaning: fractional_digit_1_864
+  def: ¹/₈₆₄ (2 × 12⁻³); 0.002₁₂
+
+- nika: 두
+  class: symb
+  meaning: fractional_digit_1_576
+  def: ¹/₅₇₆ (3 × 12⁻³); 0.003₁₂
+
+- nika: 뚜
+  class: symb
+  meaning: fractional_digit_1_432
+  def: ¹/₄₃₂ (4 × 12⁻³); 0.004₁₂
+
+- nika: 부
+  class: symb
+  meaning: fractional_digit_5_1728
+  def: ⁵/₁₇₂₈ (5 × 12⁻³); 0.005₁₂
+
+- nika: 뿌
+  class: symb
+  meaning: fractional_digit_1_288
+  def: ¹/₂₈₈ (6 × 12⁻³); 0.006₁₂
+
+- nika: 수
+  class: symb
+  meaning: fractional_digit_7_1728
+  def: ⁷/₁₇₂₈ (7 × 12⁻³); 0.007₁₂
+
+- nika: 쑤
+  class: symb
+  meaning: fractional_digit_1_216
+  def: ¹/₂₁₆ (8 × 12⁻³); 0.008₁₂
+
+- nika: 주
+  class: symb
+  meaning: fractional_digit_1_192
+  def: ¹/₁₉₂ (9 × 12⁻³); 0.009₁₂
+
+- nika: 쭈
+  class: symb
+  meaning: fractional_digit_5_864
+  def: ⁵/₈₆₄ (10 × 12⁻³); 0.00↊₁₂
+
+- nika: 우
+  class: symb
+  meaning: fractional_digit_11_1728
+  def: ¹¹/₁₇₂₈ (11 × 12⁻³); 0.00↋₁₂
+
