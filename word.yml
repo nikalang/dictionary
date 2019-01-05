@@ -72,6 +72,20 @@
   meaning: syllable_nu
   def: The name of syllable 'nu'
 
+- nika: 누구
+  class: n
+  meaning: somebody
+  remarks: declarative & imperative sentences
+  en: somebody
+  tags: [ grammatical, level_1 ]
+
+- nika: 누구
+  class: n
+  meaning: who
+  remarks: interrogative sentences
+  en: who
+  tags: [ grammatical, level_1 ]
+
 - nika: 니
   class: n
   meaning: syllable_ni
@@ -184,6 +198,48 @@
   class: n
   meaning: syllable_mu
   def: The name of syllable 'mu'
+
+- nika: 무
+  class: n
+  meaning: something
+  remarks: declarative & imperative sentences
+  en: something
+  tags: [ grammatical, level_1 ]
+
+- nika: 무
+  class: n
+  meaning: what
+  remarks: interrogative sentences
+  en: what
+  tags: [ grammatical, level_1 ]
+
+- nika: 무쑤루
+  class: n
+  meaning: do_something
+  parent:
+    nika: 무
+    class: n
+    meaning: something
+  remarks: declarative & imperative sentences
+  en: do something
+  examples:
+    - nika: 【조누】하무쑤루
+      en: John is doing something.
+  tags: [ grammatical, level_1 ]
+
+- nika: 무쑤루
+  class: n
+  meaning: do_what
+  parent:
+    nika: 무
+    class: n
+    meaning: what
+  remarks: interrogative sentences
+  en: do what
+  examples:
+    - nika: 【써씨아】하무쑤루？
+      en: What is Cecilia doing?
+  tags: [ grammatical, level_1 ]
 
 - nika: 미
   class: n
@@ -312,6 +368,12 @@
   class: n
   meaning: syllable_su
   def: The name of syllable 'su'
+
+- nika: 쑤루
+  class: v.t
+  meaning: do
+  en: do
+  tags: [ grammatical, level_1 ]
 
 - nika: 씨
   class: n
