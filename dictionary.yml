@@ -792,3 +792,33 @@
   en: great gross (1728, 1000₁₂)
   seeAlso: 〔구〕
 
+# Symbols
+
+- nika: ︒
+  class: symb
+  en: The full stop, a symbol used to terminate a declarative sentence
+      (usually skipped unless followed by another sentence)
+  unicode: U+FE12
+
+- nika: ︖
+  class: symb
+  en: The question mark, a symbol used to terminate a direct interrogative
+      sentence
+  unicode: U+FE16
+
+- nika: ︕
+  class: symb
+  en: The exclamation mark, a symbol used to terminate an imperative
+      sentence
+  unicode: U+FE15
+
+- nika: ︹
+  class: symb
+  en: The opening tortoise shell bracket, a symbol used to mark the beginning of a numerical sequence
+  unicode: U+FE39
+
+- nika: ︺
+  class: symb
+  en: The closing tortoise shell bracket, a symbol used to mark the end of a numerical sequence
+  unicode: U+FE3A
+
