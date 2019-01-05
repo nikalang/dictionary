@@ -822,3 +822,13 @@
   en: The closing tortoise shell bracket, a symbol used to mark the end of a numerical sequence
   unicode: U+FE3A
 
+- nika: ︻
+  class: symb
+  en: The opening lenticular bracket, a symbol used to mark the beginning of a proper noun
+  unicode: U+FE39
+
+- nika: ︼
+  class: symb
+  en: The closing lenticular bracket, a symbol used to mark the end of a proper noun
+  unicode: U+FE3A
+
