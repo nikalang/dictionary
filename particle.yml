@@ -3,7 +3,7 @@
   meaning: not
   def: A grammatical particle that is attached to a clause
        in order to negate it
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
 - nika: 고
   class: part
@@ -11,7 +11,7 @@
   def: A grammatical particle that is attached to a clause
        that precedes another clause in order to coordinate them 
        conveying the conjunction
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
 - nika: 아
   class: part
@@ -19,21 +19,21 @@
   def: A grammatical particle that is attached to a clause 
        that precedes another clause in order to coordinate them 
        conveying the alternative
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
 - nika: 다
   class: part
   meaning: that
   def: A grammatical particle that is attached to a declarative
        subclause in order to nominalize it
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
 - nika: 까
   class: part
   meaning: whether
   def: A grammatical particle that is attached to an indirect
        interrogative subclause in order to nominalize it
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
 - nika: 이
   class: part
@@ -42,7 +42,7 @@
        with a noun phrase acting as its verb (the copular verb) 
        when the subclause is a modifier of another noun 
        or is followed by another particle
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
 - nika: 도
   class: part
@@ -50,7 +50,7 @@
   def: A grammatical particle that is attached to a noun phrase
        that precedes another noun phrase in order to coordinate them 
        conveying the conjunction
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
 - nika: 나
   class: part
@@ -58,28 +58,28 @@
   def: A grammatical particle that is attached to a noun phrase 
        that precedes another noun phrase in order to coordinate them 
        conveying the alternative
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
 - nika: 하
   class: part
   meaning: topic
   def: A grammatical particle that is attached to a noun phrase
        in order to mark the topic of the sentence (topic marker)
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
 - nika: 가
   class: part
   meaning: subject
   def: A grammatical particle that is attached to a noun phrase
        in order to mark the subject of the sentence (nominative case marker)
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
 - nika: 호
   class: part
   meaning: object
   def: A grammatical particle that is attached to a noun phrase 
        in order to mark the object of the sentence (accusative case marker)
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
 - nika: 어
   class: part
@@ -87,7 +87,7 @@
   def: A grammatical particle that is attached to a noun phrase
        in order to convey its adverbial function 
        (dative/locative/prepositional case marker)
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
 - nika: 노
   class: part
@@ -95,5 +95,5 @@
   def: A grammatical particle that is attached to a noun phrase 
        in order to indicate that it modifies another noun phrase
        that follows it (genitive case marker)
-  tags: [ level_1 ]
+  tags: [ grammatical, level_1 ]
 
