@@ -6,14 +6,14 @@
 
 - nika: 고
   class: part
-  meaning: and
+  meaning: and_v
   def: A grammatical particle that is attached to a clause
        that precedes another clause in order to coordinate them 
        conveying the conjunction
 
 - nika: 아
   class: part
-  meaning: or
+  meaning: or_v
   def: A grammatical particle that is attached to a clause 
        that precedes another clause in order to coordinate them 
        conveying the alternative
@@ -40,14 +40,14 @@
 
 - nika: 도
   class: part
-  meaning: and
+  meaning: and_n
   def: A grammatical particle that is attached to a noun phrase
        that precedes another noun phrase in order to coordinate them 
        conveying the conjunction
 
 - nika: 나
   class: part
-  meaning: or
+  meaning: or_n
   def: A grammatical particle that is attached to a noun phrase 
        that precedes another noun phrase in order to coordinate them 
        conveying the alternative
