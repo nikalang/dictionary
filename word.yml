@@ -22,6 +22,7 @@
   class: n
   meaning: gross
   def: gross (144, 100₁₂)
+  tags: [ level_1 ]
   see_also: 〔고〕
 
 - nika: 까
@@ -48,6 +49,7 @@
   class: n
   meaning: nine
   def: nine (9, 9₁₂)
+  tags: [ level_1 ]
   see_also: 〔자〕
 
 - nika: 나
@@ -79,6 +81,7 @@
   class: n
   meaning: two
   def: two (2, 2₁₂)
+  tags: [ level_1 ]
   see_also: 〔까〕
 
 - nika: 다
@@ -100,12 +103,14 @@
   class: n
   meaning: great_gross
   def: great gross (1728, 1000₁₂)
+  tags: [ level_1 ]
   see_also: 〔구〕
 
 - nika: 도지
   class: n
   meaning: twelve
   def: twelve (12, 10₁₂)
+  tags: [ level_1 ]
   see_also: 〔거〕
 
 - nika: 두
@@ -147,6 +152,7 @@
   class: n
   meaning: zero
   def: zero (0, 0₁₂)
+  tags: [ level_1 ]
   see_also: 〔라〕
 
 - nika: 로
@@ -218,6 +224,7 @@
   class: n
   meaning: eight
   def: eight (8, 8₁₂)
+  tags: [ level_1 ]
   see_also: 〔싸〕
 
 - nika: 뻐
@@ -269,12 +276,14 @@
   class: n
   meaning: ten
   def: ten (10, ↊₁₂)
+  tags: [ level_1 ]
   see_also: 〔짜〕
 
 - nika: 시지
   class: n
   meaning: eleven
   def: eleven (11, ↋₁₂)
+  tags: [ level_1 ]
   see_also: 〔아〕
 
 - nika: 싸
@@ -286,6 +295,7 @@
   class: n
   meaning: three
   def: three (3, 3₁₂)
+  tags: [ level_1 ]
   see_also: 〔다〕
 
 - nika: 써
@@ -312,12 +322,14 @@
   class: n
   meaning: four
   def: four (4, 4₁₂)
+  tags: [ level_1 ]
   see_also: 〔따〕
 
 - nika: 씨지
   class: n
   meaning: seven
   def: seven (7, 7₁₂)
+  tags: [ level_1 ]
   see_also: 〔사〕
 
 - nika: 아
@@ -344,6 +356,7 @@
   class: n
   meaning: six
   def: six (6, 6₁₂)
+  tags: [ level_1 ]
   see_also: 〔빠〕
 
 - nika: 이
@@ -355,6 +368,7 @@
   class: n
   meaning: one
   def: one  (1, 1₁₂)
+  tags: [ level_1 ]
   see_also: 〔가〕
 
 - nika: 자
@@ -421,6 +435,7 @@
   class: n
   meaning: five
   def: five (5, 5₁₂)
+  tags: [ level_1 ]
   see_also: 〔바〕
 
 - nika: 후
