@@ -1,63 +1,38 @@
 - nika: 니
   class: part
   meaning: not
-  def: A grammatical particle that is attached to a clause
-       in order to negate it
+  def: A grammatical particle that is attached to a certain
+       grammatical unit in order to negate it
   tags: [ grammatical, level_1 ]
 
-- nika: 고
+- nika: 나
   class: part
-  meaning: and_v
-  def: A grammatical particle that is attached to a clause
-       that precedes another clause in order to coordinate them 
-       conveying the conjunction
+  meaning: and
+  def: A grammatical particle that is attached to a certain
+       grammatical unit that precedes another unit of the same type
+       in order to coordinate them conveying the conjunction
   tags: [ grammatical, level_1 ]
 
 - nika: 아
   class: part
-  meaning: or_v
-  def: A grammatical particle that is attached to a clause 
-       that precedes another clause in order to coordinate them 
-       conveying the alternative
+  meaning: or
+  def: A grammatical particle that is attached to a certain 
+       grammatical unit that precedes another unit of the same type
+       in order to coordinate them conveying the alternative
   tags: [ grammatical, level_1 ]
 
 - nika: 다
   class: part
   meaning: that
   def: A grammatical particle that is attached to a declarative
-       subclause in order to nominalize it
+       comment in order to nominalize it
   tags: [ grammatical, level_1 ]
 
 - nika: 까
   class: part
   meaning: whether
   def: A grammatical particle that is attached to an indirect
-       interrogative subclause in order to nominalize it
-  tags: [ grammatical, level_1 ]
-
-- nika: 이
-  class: part
-  meaning: copular_verb_nominalizer
-  def: A grammatical particle that is attached to a subclause 
-       with a noun phrase acting as its verb (the copular verb) 
-       when the subclause is a modifier of another noun 
-       or is followed by another particle
-  tags: [ grammatical, level_1 ]
-
-- nika: 도
-  class: part
-  meaning: and_n
-  def: A grammatical particle that is attached to a noun phrase
-       that precedes another noun phrase in order to coordinate them 
-       conveying the conjunction
-  tags: [ grammatical, level_1 ]
-
-- nika: 나
-  class: part
-  meaning: or_n
-  def: A grammatical particle that is attached to a noun phrase 
-       that precedes another noun phrase in order to coordinate them 
-       conveying the alternative
+       interrogative comment in order to nominalize it
   tags: [ grammatical, level_1 ]
 
 - nika: 하
