@@ -1,0 +1,150 @@
+-
+  nika: 아
+  class: n
+  meaning: syllable_ya
+  def: The name of syllable 'ya'
+-
+  nika: 아따
+  class: v.d
+  meaning: be_some
+  remarks: declarative & imperative sentences
+  en: (be) some, (be) any
+  tags: [ grammatical, level_1 ]
+-
+  nika: 아따
+  class: v.d
+  meaning: be_how
+  remarks: interrogative sentences
+  en: (be) how, (be) in what state 
+  examples:
+    -
+      nika: 【싸아니】구누하아따？
+      en: How is Seoyeon's skirt?
+  tags: [ grammatical, level_1 ]
+-
+  nika: 아따
+  class: v.d
+  meaning: be_any
+  remarks: interrogative sentences
+  en: (be) any
+  tags: [ grammatical, level_1 ]
+-
+  nika: 아따너니
+  class: n
+  meaning: somebody
+  parent:
+    nika: 너니
+    class: n
+    meaning: person
+  remarks: declarative & imperative sentences
+  en: somebody, someone, anybody, anyone
+  tags: [ grammatical, level_1 ]
+-
+  nika: 아따너니
+  class: n
+  meaning: who
+  parent:
+    nika: 너니
+    class: n
+    meaning: person
+  remarks: interrogative sentences
+  en: who
+  tags: [ grammatical, level_1 ]
+-
+  nika: 아따너니
+  class: n
+  meaning: anybody
+  parent:
+    nika: 너니
+    class: n
+    meaning: person
+  remarks: interrogative sentences
+  en: anybody, anyone
+  tags: [ grammatical, level_1 ]
+-
+  nika: 아따니너니
+  class: n
+  meaning: nobody
+  parent:
+    nika: 너니
+    class: n
+    meaning: person
+  en: nobody, no one, no-one
+  tags: [ grammatical, level_1 ]
+-
+  nika: 아따니지
+  class: n
+  meaning: nothing
+  parent:
+    nika: 지
+    class: n
+    meaning: thing
+  en: nothing
+  tags: [ grammatical, level_1 ]
+-
+  nika: 아따지
+  class: n
+  meaning: something
+  parent:
+    nika: 지
+    class: n
+    meaning: thing
+  remarks: declarative & imperative sentences
+  en: something, anything
+  tags: [ grammatical, level_1 ]
+-
+  nika: 아따지
+  class: n
+  meaning: what
+  parent:
+    nika: 지
+    class: n
+    meaning: thing
+  remarks: interrogative sentences
+  en: what
+  tags: [ grammatical, level_1 ]
+-
+  nika: 아따지
+  class: n
+  meaning: anything
+  parent:
+    nika: 지
+    class: n
+    meaning: thing
+  remarks: interrogative sentences
+  en: anything
+  tags: [ grammatical, level_1 ]
+-
+  nika: 아따지쑤루
+  class: n
+  meaning: do_something
+  parent:
+    nika: 아따지
+    class: n
+    meaning: something
+  remarks: declarative & imperative sentences
+  en: do something
+  examples:
+    -
+      nika: 【조누】하아따지쑤루
+      en: John is doing something.
+    -
+      nika: 아따지쑤루！
+      en: Do something!
+  tags: [ grammatical, level_1 ]
+-
+  nika: 아따지쑤루
+  class: n
+  meaning: do_what
+  parent:
+    nika: 아따지
+    class: n
+    meaning: what
+  remarks: interrogative sentences
+  en: do what
+  examples:
+    -
+      nika: 【써씨아】하아따지쑤루？
+      en: What is Cecilia doing?
+  tags: [ grammatical, level_1 ]
+

@@ -1,70 +1,71 @@
-- nika: 니
+-
+  nika: 니
   class: part
   meaning: not
   def: A grammatical particle that is attached to a certain
        grammatical unit in order to negate it
   tags: [ grammatical, level_1 ]
-
-- nika: 나
+-
+  nika: 나
   class: part
   meaning: and
   def: A grammatical particle that is attached to a certain
        grammatical unit that precedes another unit of the same type
        in order to coordinate them conveying the conjunction
   tags: [ grammatical, level_1 ]
-
-- nika: 아
+-
+  nika: 아
   class: part
   meaning: or
   def: A grammatical particle that is attached to a certain 
        grammatical unit that precedes another unit of the same type
        in order to coordinate them conveying the alternative
   tags: [ grammatical, level_1 ]
-
-- nika: 다
+-
+  nika: 다
   class: part
   meaning: that
   def: A grammatical particle that is attached to a declarative
        comment in order to nominalize it
   tags: [ grammatical, level_1 ]
-
-- nika: 까
+-
+  nika: 까
   class: part
   meaning: whether
   def: A grammatical particle that is attached to an indirect
        interrogative comment in order to nominalize it
   tags: [ grammatical, level_1 ]
-
-- nika: 하
+-
+  nika: 하
   class: part
   meaning: topic
   def: A grammatical particle that is attached to a noun phrase
        in order to mark the topic of the sentence (topic marker)
   tags: [ grammatical, level_1 ]
-
-- nika: 가
+-
+  nika: 가
   class: part
   meaning: subject
   def: A grammatical particle that is attached to a noun phrase
        in order to mark the subject of the sentence (nominative case marker)
   tags: [ grammatical, level_1 ]
-
-- nika: 호
+-
+  nika: 호
   class: part
   meaning: object
   def: A grammatical particle that is attached to a noun phrase 
        in order to mark the object of the sentence (accusative case marker)
   tags: [ grammatical, level_1 ]
-
-- nika: 어
+-
+  nika: 어
   class: part
   meaning: adverb
   def: A grammatical particle that is attached to a noun phrase
        in order to convey its adverbial function 
        (dative/locative/prepositional case marker)
   tags: [ grammatical, level_1 ]
-
-- nika: 노
+-
+  nika: 노
   class: part
   meaning: adnoun
   def: A grammatical particle that is attached to a noun phrase 

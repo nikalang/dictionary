@@ -1,52 +1,53 @@
-- id: morph
+-
+  id: morph
   parent_id: morph
   name: morpheme
-
-- id: symb
+-
+  id: symb
   parent_id: morph
   name: symbol
-
-- id: part
+-
+  id: part
   parent_id: morph
   name: particle
-
-- id: word
+-
+  id: word
   parent_id: morph
   name: word
-
-- id: int
+-
+  id: int
   parent_id: word
   name: interjection
-
-- id: v
+-
+  id: v
   parent_id: word
   name: verb
-
-- id: n
+-
+  id: n
   parent_id: word
   name: noun
-
-- id: adv
+-
+  id: adv
   parent_id: word
   name: adverb
-
-- id: adn
+-
+  id: adn
   parent_id: word
   name: adnoun
-
-- id: v.d
+-
+  id: v.d
   parent_id: v
   name: descriptive verb
-
-- id: v.a
+-
+  id: v.a
   parent_id: v
   name: action verb
-
-- id: v.i
+-
+  id: v.i
   parent_id: v.a
   name: intransitive verb
-
-- id: v.t
+-
+  id: v.t
   parent_id: v.a
   name: transitive verb
 

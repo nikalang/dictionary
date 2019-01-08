@@ -1,0 +1,33 @@
+-
+  nika: 이
+  class: n
+  meaning: syllable_yi
+  def: The name of syllable 'yi'
+-
+  nika: 이씨
+  class: v.d
+  meaning: exist
+  en: exist 
+  examples:
+    -
+      nika: 떠니쭈하이씨
+      en: God exists.
+  tags: [ grammatical, level_1 ]
+-
+  nika: 이씨
+  class: v.d
+  meaning: have
+  en: have
+  examples:
+    -
+      nika: 【로수】하부구가이씨
+      en: Rose has a dress.
+  tags: [ grammatical, level_1 ]
+-
+  nika: 이지
+  class: n
+  meaning: one
+  def: one  (1, 1₁₂)
+  tags: [ level_1 ]
+  see_also: 〔가〕
+
