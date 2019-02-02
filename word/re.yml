@@ -4,10 +4,26 @@
   meaning: syllable_re
   def: The name of syllable 're'
 -
-  nika: 러니
+  nika: 러이
   class: n
   meaning: zero
   def: zero (0, 0₁₂)
   tags: [ level_1 ]
+  etymology:
+    language: Middle Chinese (Woyimi Reading)
+    base_form: 〇
+    algorithm: woyimi
+    input: leŋ
+  see_also: 〔라〕
+-
+  nika: 러구
+  class: n
+  meaning: zero
+  def: zero (0, 0₁₂)
+  etymology:
+    language: Middle Chinese (Kaniyimi Reading)
+    base_form: 〇
+    algorithm: kaniyimi
+    input: leŋ
   see_also: 〔라〕
 
