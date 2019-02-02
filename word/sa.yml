@@ -9,5 +9,21 @@
   meaning: three
   def: three (3, 3₁₂)
   tags: [ level_1 ]
+  etymology:
+    language: Middle Chinese (Woyimi Reading)
+    base_form: 三
+    algorithm: woyimi
+    input: sɑm
+  see_also: 〔다〕
+-
+  nika: 싸부
+  class: n
+  meaning: three
+  def: three (3, 3₁₂)
+  etymology:
+    language: Middle Chinese (Kaniyimi Reading)
+    base_form: 三
+    algorithm: kaniyimi
+    input: sɑm
   see_also: 〔다〕
 

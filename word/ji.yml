@@ -6,7 +6,30 @@
 -
   nika: 지
   class: n
+  meaning: two
+  def: two (2, 2₁₂)
+  etymology:
+    language: Middle Chinese (Kaniyimi Reading)
+    base_form: 二
+    algorithm: kaniyimi
+    input: ȵiɪᴴ
+  see_also: 〔까〕
+-
+  nika: 지
+  class: n
   meaning: thing
   en: thing
   tags: [ grammatical, level_1 ]
+-
+  nika: 지비
+  class: n
+  meaning: ten
+  def: ten (10, ↊₁₂)
+  tags: [ level_1 ]
+  etymology:
+    language: Middle Chinese (Woyimi Reading)
+    base_form: 十
+    algorithm: woyimi
+    input: dʑiɪp̚
+  see_also: 〔짜〕
 

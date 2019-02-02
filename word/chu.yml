@@ -3,4 +3,15 @@
   class: n
   meaning: syllable_chu
   def: The name of syllable 'chu'
+-
+  nika: 쭈
+  class: n
+  meaning: nine
+  def: nine (9, 9₁₂)
+  etymology:
+    language: Middle Chinese (Kaniyimi Reading)
+    base_form: 九
+    algorithm: kaniyimi
+    input: kɨuˣ
+  see_also: 〔자〕
 

@@ -9,5 +9,20 @@
   meaning: six
   def: six (6, 6₁₂)
   tags: [ level_1 ]
+  etymology:
+    language: Middle Chinese (Woyimi Reading)
+    base_form: 六
+    algorithm: woyimi
+    input: lɨuk̚     
   see_also: 〔빠〕
-
+-
+  nika: 우꾸
+  class: n
+  meaning: six
+  def: six (6, 6₁₂)
+  etymology:
+    language: Middle Chinese (Kaniyimi Reading)
+    base_form: 六
+    algorithm: kaniyimi
+    input: lɨuk̚     
+  see_also: 〔빠〕

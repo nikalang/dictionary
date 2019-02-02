@@ -9,12 +9,21 @@
   meaning: four
   def: four (4, 4₁₂)
   tags: [ level_1 ]
+  etymology:
+    language: Middle Chinese (Woyimi Reading)
+    base_form: 四
+    algorithm: woyimi
+    input: siɪᴴ  
   see_also: 〔따〕
 -
-  nika: 씨지
+  nika: 씨
   class: n
-  meaning: seven
-  def: seven (7, 7₁₂)
-  tags: [ level_1 ]
-  see_also: 〔사〕
+  meaning: four
+  def: four (4, 4₁₂)
+  etymology:
+    language: Middle Chinese (Kaniyimi Reading)
+    base_form: 四
+    algorithm: kaniyimi
+    input: siɪᴴ  
+  see_also: 〔따〕
 

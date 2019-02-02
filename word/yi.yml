@@ -4,6 +4,29 @@
   meaning: syllable_yi
   def: The name of syllable 'yi'
 -
+  nika: 이
+  class: n
+  meaning: two
+  def: two (2, 2₁₂)
+  tags: [ level_1 ]
+  etymology:
+    language: Middle Chinese (Woyimi Reading)
+    base_form: 二
+    algorithm: woyimi
+    input: ȵiɪᴴ
+  see_also: 〔까〕
+-
+  nika: 이뚜
+  class: n
+  meaning: one
+  def: one  (1, 1₁₂)
+  etymology:
+    language: Middle Chinese (Kaniyimi Reading)
+    base_form: 一
+    algorithm: kaniyimi
+    input: ʔiɪt̚
+  see_also: 〔가〕  
+-
   nika: 이씨
   class: v.d
   meaning: exist
@@ -29,5 +52,10 @@
   meaning: one
   def: one  (1, 1₁₂)
   tags: [ level_1 ]
+  etymology:
+    language: Middle Chinese (Woyimi Reading)
+    base_form: 一
+    algorithm: woyimi
+    input: ʔiɪt̚
   see_also: 〔가〕
 

@@ -9,5 +9,10 @@
   meaning: nine
   def: nine (9, 9₁₂)
   tags: [ level_1 ]
+  etymology:
+    language: Middle Chinese (Woyimi Reading)
+    base_form: 九
+    algorithm: woyimi
+    input: kɨuˣ
   see_also: 〔자〕
 

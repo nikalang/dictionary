@@ -3,4 +3,15 @@
   class: n
   meaning: syllable_go
   def: The name of syllable 'go'
+-
+  nika: 고
+  class: n
+  meaning: five
+  def: five (5, 5₁₂)
+  etymology:
+    language: Middle Chinese (Kaniyimi Reading)
+    base_form: 五
+    algorithm: kaniyimi
+    input: ŋuoˣ   
+  see_also: 〔바〕
 

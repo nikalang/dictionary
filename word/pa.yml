@@ -4,10 +4,26 @@
   meaning: syllable_pa
   def: The name of syllable 'pa'
 -
+  nika: 빠뚜
+  class: n
+  meaning: eight
+  def: eight (8, 8₁₂)
+  etymology:
+    language: Middle Chinese (Kaniyimi Reading)
+    base_form: 八
+    algorithm: kaniyimi
+    input: pˠɛt̚  
+  see_also: 〔싸〕
+-
   nika: 빠지
   class: n
   meaning: eight
   def: eight (8, 8₁₂)
   tags: [ level_1 ]
+  etymology:
+    language: Middle Chinese (Woyimi Reading)
+    base_form: 八
+    algorithm: woyimi
+    input: pˠɛt̚  
   see_also: 〔싸〕
 

@@ -3,4 +3,38 @@
   class: n
   meaning: syllable_chi
   def: The name of syllable 'chi'
+-
+  nika: 찌뚜
+  class: n
+  meaning: seven
+  def: seven (7, 7₁₂)
+  etymology:
+    language: Middle Chinese (Kaniyimi Reading)
+    base_form: 七
+    algorithm: kaniyimi
+    input: tsʰiɪt̚ 
+  see_also: 〔사〕
+-
+  nika: 찌뿌
+  class: n
+  meaning: ten
+  def: ten (10, ↊₁₂)
+  etymology:
+    language: Middle Chinese (Kaniyimi Reading)
+    base_form: 十
+    algorithm: kaniyimi
+    input: dʑiɪp̚
+  see_also: 〔짜〕
+-
+  nika: 찌지
+  class: n
+  meaning: seven
+  def: seven (7, 7₁₂)
+  tags: [ level_1 ]
+  etymology:
+    language: Middle Chinese (Woyimi Reading)
+    base_form: 七
+    algorithm: woyimi
+    input: tsʰiɪt̚ 
+  see_also: 〔사〕
 

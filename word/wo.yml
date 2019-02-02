@@ -9,5 +9,10 @@
   meaning: five
   def: five (5, 5₁₂)
   tags: [ level_1 ]
+  etymology:
+    language: Middle Chinese (Woyimi Reading)
+    base_form: 五
+    algorithm: woyimi
+    input: ŋuoˣ   
   see_also: 〔바〕
 
